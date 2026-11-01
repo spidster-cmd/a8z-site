@@ -26,7 +26,7 @@ Key facts:
 - [Google Cloud Summits meeting booking](https://a8z.biz/conference-meeting-booking/google-cloud-summits/): A8Z books sales meetings for B2B software vendors at regional Google Cloud Summits, such as London, Paris, DACH, Nordics and Tel Aviv. Pre-event outreach to local cloud buyers and Google Cloud partners.
 - [KubeCon Europe 2027 meeting booking](https://a8z.biz/conference-meeting-booking/kubecon-eu-2027/): A8Z books sales meetings for cloud native and DevOps vendors attending KubeCon + CloudNativeCon Europe 2027 (March 15-18, Barcelona). Pre-event outreach to platform engineering leaders and target accounts.
 - [Microsoft Ignite meeting booking](https://a8z.biz/conference-meeting-booking/microsoft-ignite/): A8Z books sales meetings for B2B software vendors and Microsoft partners attending Microsoft Ignite (2026: November 17-20, Moscone Center, San Francisco). Pre-event outreach to IT, cloud and security leaders.
-- [RSAC 2027 meeting booking](https://a8z.biz/conference-meeting-booking/rsac-2027/): A8Z books sales meetings for cybersecurity vendors attending RSAC 2027 (April 5-8, Moscone Center, San Francisco). Pre-event outreach to CISOs, security leaders and target accounts, starting 6-8 weeks before the show.
+- [RSAC 2027 meeting booking](https://a8z.biz/conference-meeting-booking/rsac-2027/): A8Z books sales meetings for cybersecurity vendors attending RSAC 2027, formerly RSA Conference (April 5-8, Moscone Center, San Francisco). Pre-event outreach to CISOs, security leaders and target accounts, starting 6-8 weeks before the show.
 
 ## Guides
 
