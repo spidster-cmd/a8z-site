@@ -32,7 +32,7 @@ Key facts:
 
 - [How to book meetings before a trade show or conference](https://a8z.biz/guides/book-meetings-before-a-trade-show/): A step-by-step playbook for B2B tech vendors to book sales meetings before a conference or trade show: timeline, who to target, where to find attendees, message templates and follow-up.
 - [Outbound agency vs in-house SDR](https://a8z.biz/guides/outbound-agency-vs-in-house-sdr/): A practical comparison of hiring an outbound agency versus an in-house SDR for B2B tech companies: cost components, time to first meeting, risk, control, and when each option makes sense.
-- [Free cold email infrastructure guide](https://a8z.biz/lm/email-infra-playbook-free): Free guide: the 8 cold email infrastructure mistakes that kill deliverability and how to fix each one. Send limits, inbox warm-up, DNS settings and a pre-campaign checklist.
+- [Free cold email infrastructure guide](https://a8z.biz/lm/email-infra-playbook-free/): Free guide: the 8 cold email infrastructure mistakes that kill deliverability and how to fix each one. Send limits, inbox warm-up, DNS settings and a pre-campaign checklist.
 
 ## Company
 
