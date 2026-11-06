@@ -1,25 +1,25 @@
 # A8Z
 
-> A8Z is an outbound-as-a-service agency for B2B tech companies. We book qualified sales meetings with technical buyers through end-to-end outbound: signal-based prospecting, social listening, personalized email, LinkedIn and cold calling, including pre-booked meetings at industry conferences such as RSAC, AWS re:Invent, Microsoft Ignite, KubeCon and Google Cloud Next.
+> A8Z is a sales meeting generation and outbound agency for B2B SaaS and tech companies. We build sales pipeline by booking qualified sales meetings through end-to-end outbound: signal-based prospecting, social listening, personalized email, LinkedIn and cold calling, including pre-booked meetings at SaaS and tech conferences such as SaaStr, Dreamforce, Web Summit, RSAC, AWS re:Invent and KubeCon.
 
 Key facts:
-- What: outbound as a service (done-for-you outbound) for B2B technology companies, plus pre-booked sales meetings at industry conferences and trade shows.
-- Who it is for: founders and CEOs of B2B tech companies with 10-50 employees, and CROs, VP Sales and Heads of Sales at companies with 10-200 employees, especially in cloud, cloud software, DevOps and cybersecurity.
+- What: sales meeting generation and sales pipeline through outbound as a service (done-for-you outbound) for B2B SaaS and technology companies, plus pre-booked sales meetings at SaaS and tech conferences and trade shows.
+- Who it is for: founders and CEOs of B2B SaaS and tech companies with 10-50 employees, and CROs, VP Sales and Heads of Sales at companies with 10-200 employees, especially in cloud, DevOps and cybersecurity.
 - Who they reach: technical and business buyers such as CTOs, VPs of Engineering, Heads of Platform, CISOs and their teams.
 - Scope: end to end. Prospecting and list building, buying signals and social listening, cold email, LinkedIn, cold calling, reply handling and meeting booking. Small, targeted lists, not mass campaigns.
-- Conferences covered: RSAC, AWS re:Invent, Microsoft Ignite, KubeCon + CloudNativeCon, Google Cloud Next, regional AWS Summits and Google Cloud Summits, Web Summit and other large cloud and security events in the US and Europe.
+- Conferences covered: SaaStr, Dreamforce, Web Summit, AI Growth Summit (formerly SaaStock), RSAC, AWS re:Invent, Microsoft Ignite, KubeCon + CloudNativeCon, Google Cloud Next, regional AWS Summits and Google Cloud Summits, and other SaaS, cloud and security events in the US and Europe.
 - Track record: 500+ meetings booked with technical buyers.
 - Founder: Or Alperovitz, a former B2B SaaS seller to technical buyers.
-- Based in Israel. Works with B2B tech companies in Israel, the US and Europe; outreach is in English.
+- Markets: works with B2B SaaS and tech companies in the US, Europe and Israel; outreach is in English. Home base: Israel.
 - Contact: or@a8z.biz | Book a call: https://calendly.com/or-alperovitch-g9d9/30min
 
 ## Services
 
-- [Outbound as a Service](https://a8z.biz/outbound-as-a-service/): End-to-end outbound for B2B tech companies: signal-based prospecting, social listening, personalized email, LinkedIn and cold calling, reply handling and qualified meetings with technical buyers. How A8Z works, who it's for, and what you get.
+- [Outbound as a Service](https://a8z.biz/outbound-as-a-service/): End-to-end outbound that generates qualified sales meetings and sales pipeline for B2B SaaS and tech companies: signal-based prospecting, social listening, email, LinkedIn, cold calling and reply handling.
 
 ## Conference meeting booking
 
-- [Conference and trade show meeting booking](https://a8z.biz/conference-meeting-booking/): A8Z pre-books sales meetings for B2B tech vendors attending conferences like RSAC, AWS re:Invent, Microsoft Ignite, KubeCon and Google Cloud Next. Pre-event outreach to attendees and target accounts, booked meetings, and post-event follow-up.
+- [Conference and trade show meeting booking](https://a8z.biz/conference-meeting-booking/): A8Z pre-books sales meetings for B2B SaaS and tech vendors at events like SaaStr, Dreamforce, Web Summit, RSAC, AWS re:Invent and KubeCon. Pre-event outreach, booked meetings and post-event follow-up.
 - [AWS re:Invent meeting booking](https://a8z.biz/conference-meeting-booking/aws-reinvent/): A8Z books sales meetings for B2B software vendors and AWS partners attending AWS re:Invent in Las Vegas (2026: November 30 to December 4). Pre-event outreach to cloud buyers, AWS partners and target accounts.
 - [AWS Summits meeting booking](https://a8z.biz/conference-meeting-booking/aws-summits/): A8Z books sales meetings for B2B software vendors at regional AWS Summits in the US and Europe, such as New York, Washington DC, London and Hamburg. Pre-event outreach to local cloud buyers and AWS partners.
 - [Google Cloud Next 2027 meeting booking](https://a8z.biz/conference-meeting-booking/google-cloud-next-2027/): A8Z books sales meetings for B2B software vendors and Google Cloud partners attending Google Cloud Next 2027 in Las Vegas. Pre-event outreach to cloud buyers, Google Cloud partners and target accounts.
@@ -27,15 +27,17 @@ Key facts:
 - [KubeCon Europe 2027 meeting booking](https://a8z.biz/conference-meeting-booking/kubecon-eu-2027/): A8Z books sales meetings for cloud native and DevOps vendors attending KubeCon + CloudNativeCon Europe 2027 (March 15-18, Barcelona). Pre-event outreach to platform engineering leaders and target accounts.
 - [Microsoft Ignite meeting booking](https://a8z.biz/conference-meeting-booking/microsoft-ignite/): A8Z books sales meetings for B2B software vendors and Microsoft partners attending Microsoft Ignite (2026: November 17-20, Moscone Center, San Francisco). Pre-event outreach to IT, cloud and security leaders.
 - [RSAC 2027 meeting booking](https://a8z.biz/conference-meeting-booking/rsac-2027/): A8Z books sales meetings for cybersecurity vendors attending RSAC 2027, formerly RSA Conference (April 5-8, Moscone Center, San Francisco). Pre-event outreach to CISOs, security leaders and target accounts, starting 6-8 weeks before the show.
+- [SaaS conference meeting booking](https://a8z.biz/conference-meeting-booking/saas-conferences/): A8Z books sales meetings for B2B SaaS vendors attending SaaS conferences like SaaStr AI Annual, Dreamforce, Web Summit and AI Growth Summit. Pre-event outreach that turns a conference into sales pipeline.
 
 ## Guides
 
+- [Best services for booking meetings at SaaS conferences](https://a8z.biz/guides/best-saas-conference-meeting-booking-services/): A disclosed comparison of services and tools for booking sales meetings at SaaS conferences like SaaStr, Dreamforce and Web Summit: A8Z, ExpoToFunnel, Lensmor, Profitable Events, SeeResponse and Skylarq.
 - [How to book meetings before a trade show or conference](https://a8z.biz/guides/book-meetings-before-a-trade-show/): A step-by-step playbook for B2B tech vendors to book sales meetings before a conference or trade show: timeline, who to target, where to find attendees, message templates and follow-up.
 - [Outbound agency vs in-house SDR](https://a8z.biz/guides/outbound-agency-vs-in-house-sdr/): A practical comparison of hiring an outbound agency versus an in-house SDR for B2B tech companies: cost components, time to first meeting, risk, control, and when each option makes sense.
 - [Free cold email infrastructure guide](https://a8z.biz/lm/email-infra-playbook-free/): Free guide: the 8 cold email infrastructure mistakes that kill deliverability and how to fix each one. Send limits, inbox warm-up, DNS settings and a pre-campaign checklist.
 
 ## Company
 
-- [Home](https://a8z.biz/): A8Z is an outbound-as-a-service agency for B2B tech companies. We book qualified meetings with technical buyers through signal-based prospecting, social listening, email, LinkedIn and cold calling, including pre-booked meetings at RSAC, KubeCon and Google Cloud Next.
-- [About A8Z and Or Alperovitz](https://a8z.biz/about/): A8Z is an outbound-as-a-service agency for B2B tech companies, founded by Or Alperovitz, a former B2B SaaS seller to technical buyers. Based in Israel, working with clients in Israel, the US and Europe.
+- [Home](https://a8z.biz/): A8Z generates qualified sales meetings and sales pipeline for B2B SaaS and tech companies through end-to-end outbound, and pre-books sales meetings at SaaS, cloud and cybersecurity conferences.
+- [About A8Z and Or Alperovitz](https://a8z.biz/about/): A8Z is an outbound-as-a-service agency for B2B tech companies, founded by Or Alperovitz, a former B2B SaaS seller to technical buyers, working with clients in the US, Europe and Israel.
 - [FAQ](https://a8z.biz/faq/): Answers about A8Z's outbound-as-a-service and conference meeting booking for B2B tech companies: who it's for, how it works, timelines, channels, deliverability, pricing and markets.

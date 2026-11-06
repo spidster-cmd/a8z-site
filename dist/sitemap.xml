@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://a8z.biz/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://a8z.biz/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://a8z.biz/about/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://a8z.biz/accessibility-statement</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://a8z.biz/conference-meeting-booking/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://a8z.biz/conference-meeting-booking/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://a8z.biz/conference-meeting-booking/aws-reinvent/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://a8z.biz/conference-meeting-booking/aws-summits/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://a8z.biz/conference-meeting-booking/google-cloud-next-2027/</loc><lastmod>2026-11-01</lastmod></url>
@@ -11,12 +11,14 @@
   <url><loc>https://a8z.biz/conference-meeting-booking/kubecon-eu-2027/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://a8z.biz/conference-meeting-booking/microsoft-ignite/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://a8z.biz/conference-meeting-booking/rsac-2027/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://a8z.biz/faq/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://a8z.biz/conference-meeting-booking/saas-conferences/</loc><lastmod>2026-11-05</lastmod></url>
+  <url><loc>https://a8z.biz/faq/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://a8z.biz/guides/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://a8z.biz/guides/best-saas-conference-meeting-booking-services/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://a8z.biz/guides/book-meetings-before-a-trade-show/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://a8z.biz/guides/outbound-agency-vs-in-house-sdr/</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://a8z.biz/lm/email-infra-playbook-free/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://a8z.biz/outbound-as-a-service/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://a8z.biz/outbound-as-a-service/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://a8z.biz/privacy-policy</loc><lastmod>2026-05-21</lastmod></url>
   <url><loc>https://a8z.biz/terms-of-use</loc><lastmod>2026-05-21</lastmod></url>
 </urlset>
