@@ -27,6 +27,17 @@ window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-F8LC078TPW');
+// Count clicks on the links that turn a visitor into a lead.
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('a[href]');
+  if (!a) return;
+  var h = a.href, name = null;
+  if (h.indexOf('cal.com/') > -1) name = 'book_call_click';
+  else if (h.indexOf('whatsapp.com/') > -1) name = 'whatsapp_click';
+  else if (h.indexOf('mailto:') === 0) name = 'email_click';
+  else if (h.indexOf('/lm/email-infra-playbook-free') > -1) name = 'playbook_click';
+  if (name) gtag('event', name, {link_url: h, page_path: location.pathname});
+}, true);
 </script>
 <script>
 (function(w,d){
