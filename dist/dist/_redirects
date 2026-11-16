@@ -1,0 +1,7 @@
+# Old or guessable URLs -> new pages (301 = permanent, keeps SEO value)
+/services              /outbound-as-a-service/             301
+/outbound              /outbound-as-a-service/             301
+/events                /conference-meeting-booking/        301
+/conferences           /conference-meeting-booking/        301
+/blog                  /guides/                            301
+/index.html            /                                   301
